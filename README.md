@@ -2,6 +2,8 @@
 ![image](https://user-images.githubusercontent.com/74155660/161264579-8784116f-23ca-45e5-8096-c42da336093b.png)
 
 
+Click [here](https://drive.google.com/drive/folders/1g2WH73dP7mPWS-m82exjslTr3mgU_6yL) to download reviews and reviews_with_sentiments corpus.
+
 Top 10 topics found which have been mapped to an aspect
 ```
 0: 0.023*"handset" + 0.013*"works" + 0.011*"network" + 0.011*"useless" + 0.010*"google" + 0.009*"found" + 0.009*"made" + 0.008*"problem" + 0.008*"keyboard" + 0.008*"advertised" + 0.008*"via" + 0.007*"us" + 0.007*"seem" + 0.007*"operating_system" + 0.007*"round" + 0.006*"device" + 0.006*"online" + 0.006*"unfortunately" + 0.006*"awful" + 0.006*"issue"
